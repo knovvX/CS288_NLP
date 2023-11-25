@@ -1,0 +1,12 @@
+
+*.jpg
+HW2/hw2a/.DS_Store
+HW1/.DS_Store
+HW2/.DS_Store
+.DS_Store
+*.jpg
+*.pkl
+*.txt
+*.yml
+*.npy
+*.json
